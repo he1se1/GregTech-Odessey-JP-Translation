@@ -48,23 +48,23 @@
   "block.gtocore.adamantine_coil_block": "Adamantine Coil Block",
 
   "block.gtocore.advanced_assembly_line": "発展型組立ライン",
-  "gtocore.lang.advanced_assembly_line.0.-1974482848": "Employees tired of the slow and troublesome assembly line proposed production capacity improvements",
-  "gtocore.lang.advanced_assembly_line.1.1408884472": "Can use larger input buses",
-  "gtocore.lang.advanced_assembly_line.1.1775262660": "The whole GTO company mobilized experts all gathered together",
-  "gtocore.lang.advanced_assembly_line.2.2086674307": "Mechanical team built frame, electronic team laid circuits, logistics team optimized delivery each showing their skills",
-  "gtocore.lang.advanced_assembly_line.2.-1184378323": "Must ensure each layer input corresponds to the recipe",
-  "gtocore.lang.advanced_assembly_line.3.645766060": "Only data target chambers can be used",
-  "gtocore.lang.advanced_assembly_line.3.-538236882": "Efforts paid off. Despite limitations, the new model's efficiency increased several times over previous versions",
+  "gtocore.lang.advanced_assembly_line.0.-1974482848": "あまりにも遅く、面倒な組立ラインにうんざりした従業員は、生産力の改善案を提出した",
+  "gtocore.lang.advanced_assembly_line.1.1408884472": "より大きな搬入バスを使用可能",
+  "gtocore.lang.advanced_assembly_line.1.1775262660": "GTO社全体が専門家を動員し、精鋭チームが集結した",
+  "gtocore.lang.advanced_assembly_line.2.2086674307": "機械チームが枠組みを組み上げ、電子チームが回路を敷設、物流チームが配送と物流を最適化。それぞれが専門分野を担当し、スキルを発揮した",
+  "gtocore.lang.advanced_assembly_line.2.-1184378323": "各レイヤーの搬入がレシピと一致している必要がある",
+  "gtocore.lang.advanced_assembly_line.3.645766060": "データ受信ハッチのみ使用可能",
+  "gtocore.lang.advanced_assembly_line.3.-538236882": "技術の総動員の結果、多少の制限はありながらも、効率が格段に向上した新モデルが誕生した",
 
-  "block.gtocore.advanced_assembly_line_unit": "Advanced Assembly Line Unit",
-  "block.gtocore.advanced_catalyst_hatch": "Advanced Catalyst Hatch",
-  "block.gtocore.advanced_compressed_fusion_coil": "Advanced Compressed Fusion Coil",
-  "block.gtocore.advanced_fusion_coil": "Advanced Fusion Coil",
+  "block.gtocore.advanced_assembly_line_unit": "発展型組立制御外装",
+  "block.gtocore.advanced_catalyst_hatch": "発展型触媒搬入ハッチ",
+  "block.gtocore.advanced_compressed_fusion_coil": "発展型圧縮核融合コイル",
+  "block.gtocore.advanced_fusion_coil": "発展型核融合コイル",
 
-  "gtceu.advanced_hyper_reactor": "Advanced Hyper Reactor",
-  "block.gtocore.advanced_hyper_reactor": "Advanced Hyper Reactor",
-  "gtocore.machine.advanced_hyper_reactor.tooltip.0": "Provides different plasmas to achieve different parallelism",
-  "gtocore.machine.advanced_hyper_reactor.tooltip.1": "Starmetal: 8, Dense Neutrons: 16",
+  "gtceu.advanced_hyper_reactor": "発展型ハイパー反応炉",
+  "block.gtocore.advanced_hyper_reactor": "発展型ハイパー反応炉",
+  "gtocore.machine.advanced_hyper_reactor.tooltip.0": "供給されるプラズマの種類に応じて並列処理数が変化する",
+  "gtocore.machine.advanced_hyper_reactor.tooltip.1": "スターメタル: 8, 高密度中性子: 16",
 
   "block.gtocore.advanced_infinite_driller": "Advanced Infinite Driller",
   "gtocore.machine.advanced_infinite_driller.drilled_fluid": "Fluid: %s Output: %s",
@@ -1408,19 +1408,19 @@
   "item.gtocore.essence_seed": "Essence Seed",
   "item.gtocore.essentia_matter": "Essentia Matter",
   "item.gtocore.etched_silicon_boule": "Etched Silicon Boule",
-  "item.gtocore.eternity_catalyst": "Eternity Catalyst",
-  "block.gtocore.eternity_coil_block": "Eternity Coil Block",
+  "item.gtocore.eternity_catalyst": "エタニティカタリスト",
+  "block.gtocore.eternity_coil_block": "エタニティコイルブロック",
   "block.gtocore.eternity_glass": "Eternity Glass",
   "block.gtocore.ev_accelerate_hatch": "§5EV§r Accelerate Hatch",
 
   "block.gtocore.ev_arc_generator": "§5発展型アーク発生機 III§r",
-  "gtocore.machine.ev_arc_generator.tooltip": "§7Friction Electricity",
+  "gtocore.machine.ev_arc_generator.tooltip": "§7摩擦と電気",
 
   "block.gtocore.ev_cluster": "§5発展型クラスター圧延機 III§r",
-  "gtocore.machine.ev_cluster.tooltip": "§7Produces Foils",
+  "gtocore.machine.ev_cluster.tooltip": "§7フォイルの生産",
 
   "block.gtocore.ev_dehydrator": "§5発展型脱水機 III§r",
-  "gtocore.machine.ev_dehydrator.tooltip": "§7Dehydrate, Dehydrate!",
+  "gtocore.machine.ev_dehydrator.tooltip": "§7カラカラカラのカラ カララカラカラ",
 
   "item.gtocore.ev_drone": "Advanced Drone",
   "block.gtocore.ev_drone_hatch": "§5EV§r Drone Hatch",
@@ -1428,15 +1428,15 @@
   "block.gtceu.ev_dual_output_hatch": "§5EV§r二重搬出ハッチ",
 
   "block.gtocore.ev_laminator": "§5発展型ラミネート機 III§r",
-  "gtocore.machine.ev_laminator.tooltip": "§7Insulation Coating, Safe Electricity!",
+  "gtocore.machine.ev_laminator.tooltip": "§7絶縁しちゃえば感電なんて怖くないね",
 
   "block.gtocore.ev_laser_welder": "§5発展型レーザー溶接機 III§r",
-  "gtocore.machine.ev_laser_welder.tooltip": "§7Ancient Welding Technique",
+  "gtocore.machine.ev_laser_welder.tooltip": "§7太古から伝わる溶接技術",
 
   "block.gtocore.ev_lightning_rod": "§5発展型避雷針 III§r",
 
   "block.gtocore.ev_loom": "§5発展型織機 III§r",
-  "gtocore.machine.ev_loom.tooltip": "§7Automated Weaving",
+  "gtocore.machine.ev_loom.tooltip": "§7自動化織り込み",
 
   "block.gtocore.ev_mana_assembler": "Sorcerer Mana Assembler",
   "block.gtocore.ev_mana_extract_hatch": "Sorcerer Mana Extract Hatch",
@@ -1450,12 +1450,12 @@
   "block.gtocore.ev_rocket_engine": "§5発展型ロケットエンジン発電機 III§r",
 
   "block.gtocore.ev_rolling": "§5発展型圧延機 III§r",
-  "gtocore.machine.ev_rolling.tooltip": "§7Flat Rolling",
+  "gtocore.machine.ev_rolling.tooltip": "§7平たく伸ばす",
 
   "block.gtocore.ev_trading_station": "Pan-Galactic Gray Technology Trading Station Tier 4",
 
   "block.gtocore.ev_unpacker": "§5発展型開梱機 III§r",
-  "gtocore.machine.ev_unpacker.tooltip": "§7Standard Unpacking",
+  "gtocore.machine.ev_unpacker.tooltip": "§7スタンダードな開梱",
 
   "item.gtceu.tool.ev_vajra": "%sの発展型ヴァジュラ",
   "block.gtocore.ev_wireless_energy_unit": "Ev Wireless Energy Unit",
@@ -1471,7 +1471,7 @@
   "block.gtocore.ev_wireless_output_hatch_64a": "§5EV§r 64A Wireless Dynamo Hatch",
 
   "block.gtocore.ev_world_data_scanner": "§5発展型世界データスキャナー III§r",
-  "gtocore.machine.ev_world_data_scanner.tooltip": "§7Chunk Data Reader",
+  "gtocore.machine.ev_world_data_scanner.tooltip": "§7チャンクデータ読み込みマン",
 
   "block.gtocore.evaporation_plant": "Evaporation Plant",
   "item.gtocore.ex_pattern_buffer_ultra_upgrader": "Ex Pattern Buffer Ultra Upgrader",
@@ -1704,10 +1704,10 @@
 
   "block.gtocore.gas_mega_turbine": "Gas Mega Turbine",
 
-  "block.gtocore.gelid_cryotheum": "Gelid Cryotheum",
-  "fluid.gtocore.gelid_cryotheum": "Gelid Cryotheum",
+  "block.gtocore.gelid_cryotheum": "凍て付くクリオジウム",
+  "fluid.gtocore.gelid_cryotheum": "凍て付くクリオジウム",
 
-  "item.gtocore.gelid_cryotheum_bucket": "Gelid Cryotheum Bucket",
+  "item.gtocore.gelid_cryotheum_bucket": "凍て付くクリオジウム入りバケツ",
 
   "block.gtocore.gemini_containment_system": "Gemini Containment System",
   "gtocore.lang.gemini_containment_system.0.-1540805972": "Quantum entanglement packaging, establishing transdimensional connections between containers and contents",
@@ -1948,13 +1948,13 @@
   "block.gtocore.hv_accelerate_hatch": "§6HV§r Accelerate Hatch",
 
   "block.gtocore.hv_arc_generator": "§6発展型アーク発生機 II§r",
-  "gtocore.machine.hv_arc_generator.tooltip": "§7Friction Electricity",
+  "gtocore.machine.hv_arc_generator.tooltip": "§7摩擦と電気",
 
   "block.gtocore.hv_cluster": "§6発展型クラスター圧延機 II§r",
-  "gtocore.machine.hv_cluster.tooltip": "§7Produces Foils",
+  "gtocore.machine.hv_cluster.tooltip": "§7フォイルの生産",
 
   "block.gtocore.hv_dehydrator": "§6発展型脱水機 II§r",
-  "gtocore.machine.hv_dehydrator.tooltip": "§7Dehydrate, Dehydrate!",
+  "gtocore.machine.hv_dehydrator.tooltip": "§7カラカラカラのカラ カララカラカラ",
 
   "block.gtocore.hv_digital_miner": "§6発展型デジタルマイナー II§r",
   "item.gtocore.hv_drone": "Base Drone",
@@ -1967,13 +1967,13 @@
   "block.gtocore.hv_energy_output_hatch_16a": "§6HV§r 16A Dynamo Hatch",
 
   "block.gtocore.hv_laminator": "§6発展型ラミネート機 II§r",
-  "gtocore.machine.hv_laminator.tooltip": "§7Insulation Coating, Safe Electricity!",
+  "gtocore.machine.hv_laminator.tooltip": "§7絶縁しちゃえば感電なんて怖くないね",
 
   "block.gtocore.hv_laser_welder": "§6発展型レーザー溶接機 II§r",
-  "gtocore.machine.hv_laser_welder.tooltip": "§7Ancient Welding Technique",
+  "gtocore.machine.hv_laser_welder.tooltip": "§7太古から伝わる溶接技術",
 
   "block.gtocore.hv_loom": "§6発展型織機 II§r",
-  "gtocore.machine.hv_loom.tooltip": "§7Automated Weaving",
+  "gtocore.machine.hv_loom.tooltip": "§7自動化織り込み",
 
   "block.gtocore.hv_mana_assembler": "Elemental Mana Assembler",
   "block.gtocore.hv_mana_extract_hatch": "Elemental Mana Extract Hatch",
@@ -1985,13 +1985,13 @@
   "block.gtocore.hv_programmablec_hatch": "§6HV Programmable Hatch",
 
   "block.gtocore.hv_rolling": "§6発展型圧延機 II§r",
-  "gtocore.machine.hv_rolling.tooltip": "§7Flat Rolling",
+  "gtocore.machine.hv_rolling.tooltip": "§7平たく伸ばす",
 
   "block.gtocore.hv_semi_fluid": "§6発展型半液体燃焼発電機 II§r",
   "block.gtocore.hv_trading_station": "Pan-Galactic Gray Technology Trading Station Tier 3",
 
   "block.gtocore.hv_unpacker": "§6発展型開梱機 II§r",
-  "gtocore.machine.hv_unpacker.tooltip": "§7Standard Unpacking",
+  "gtocore.machine.hv_unpacker.tooltip": "§7スタンダードな開梱",
 
   "block.gtocore.hv_vacuum_pump": "§6発展型真空ポンプ II§r",
   "gtocore.machine.hv_vacuum_pump.tooltip": "§7High-efficiency Vacuum Extraction Unit",
@@ -2009,7 +2009,7 @@
   "block.gtocore.hv_wireless_output_hatch_16a": "§6HV§r 16A Wireless Dynamo Hatch",
 
   "block.gtocore.hv_world_data_scanner": "§6発展型世界データスキャナー II§r",
-  "gtocore.machine.hv_world_data_scanner.tooltip": "§7Chunk Data Reader",
+  "gtocore.machine.hv_world_data_scanner.tooltip": "§7チャンクデータ読み込みマン",
 
   "block.gtocore.hyper_core": "Hyper Core",
   "block.gtocore.hyper_mechanical_casing": "Hyper Mechanical Casing",
@@ -2673,13 +2673,13 @@
   "block.gtocore.lv_accelerate_hatch": "§7LV§r Accelerate Hatch",
 
   "block.gtocore.lv_arc_generator": "基本型アーク発生機 §r",
-  "gtocore.machine.lv_arc_generator.tooltip": "§7Friction Electricity",
+  "gtocore.machine.lv_arc_generator.tooltip": "§7摩擦と電気",
 
   "block.gtocore.lv_cluster": "基本型クラスター圧延機 §r",
-  "gtocore.machine.lv_cluster.tooltip": "§7Produces Foils",
+  "gtocore.machine.lv_cluster.tooltip": "§7フォイルの生産",
 
   "block.gtocore.lv_dehydrator": "基本型脱水機 §r",
-  "gtocore.machine.lv_dehydrator.tooltip": "§7Dehydrate, Dehydrate!",
+  "gtocore.machine.lv_dehydrator.tooltip": "§7カラカラカラのカラ カララカラカラ",
 
   "block.gtocore.lv_digital_miner": "基本型デジタルマイナー §r",
   "block.gtceu.lv_dual_input_hatch": "§7LV§r二重搬入ハッチ",
@@ -2690,13 +2690,13 @@
   "block.gtocore.lv_energy_output_hatch_16a": "§7LV§r 16A Dynamo Hatch",
 
   "block.gtocore.lv_laminator": "基本型ラミネート機 §r",
-  "gtocore.machine.lv_laminator.tooltip": "§7Insulation Coating, Safe Electricity!",
+  "gtocore.machine.lv_laminator.tooltip": "§7絶縁しちゃえば感電なんて怖くないね",
 
   "block.gtocore.lv_laser_welder": "基本型レーザー溶接機 §r",
-  "gtocore.machine.lv_laser_welder.tooltip": "§7Ancient Welding Technique",
+  "gtocore.machine.lv_laser_welder.tooltip": "§7太古から伝わる溶接技術",
 
   "block.gtocore.lv_loom": "基本型織機 §r",
-  "gtocore.machine.lv_loom.tooltip": "§7Automated Weaving",
+  "gtocore.machine.lv_loom.tooltip": "§7自動化織り込み",
 
   "block.gtocore.lv_mana_assembler": "Enlighten Mana Assembler",
   "block.gtocore.lv_mana_extract_hatch": "Enlighten Mana Extract Hatch",
@@ -2710,14 +2710,14 @@
   "item.gtocore.lv_reward_bag": "lv Reward Bag",
 
   "block.gtocore.lv_rolling": "基本型圧延機 §r",
-  "gtocore.machine.lv_rolling.tooltip": "§7Flat Rolling",
+  "gtocore.machine.lv_rolling.tooltip": "§7平たく伸ばす",
 
   "block.gtocore.lv_semi_fluid": "基本型半液体燃焼発電機 §r",
   "block.gtocore.lv_thermal_generator": "基本型火力発電機 §r",
   "block.gtocore.lv_trading_station": "Pan-Galactic Gray Technology Trading Station Tier 1",
 
   "block.gtocore.lv_unpacker": "基本型開梱機 §r",
-  "gtocore.machine.lv_unpacker.tooltip": "§7Standard Unpacking",
+  "gtocore.machine.lv_unpacker.tooltip": "§7スタンダードな開梱",
 
   "block.gtocore.lv_vacuum_pump": "基本型真空ポンプ §r",
   "gtocore.machine.lv_vacuum_pump.tooltip": "§7Basic Vacuum Generator",
@@ -2734,7 +2734,7 @@
   "block.gtocore.lv_wireless_output_hatch_16a": "§7LV§r 16A Wireless Dynamo Hatch",
 
   "block.gtocore.lv_world_data_scanner": "基本型世界データスキャナー §r",
-  "gtocore.machine.lv_world_data_scanner.tooltip": "§7Chunk Data Reader",
+  "gtocore.machine.lv_world_data_scanner.tooltip": "§7チャンクデータ読み込みマン",
 
   "block.gtocore.machine_access_interface": "Machine Access Interface",
   "block.gtocore.machine_access_link": "Machine Access Link",
@@ -3111,13 +3111,13 @@
   "block.gtocore.mv_accelerate_hatch": "§bMV§r Accelerate Hatch",
 
   "block.gtocore.mv_arc_generator": "§b発展型アーク発生機 §r",
-  "gtocore.machine.mv_arc_generator.tooltip": "§7Friction Electricity",
+  "gtocore.machine.mv_arc_generator.tooltip": "§7摩擦と電気",
 
   "block.gtocore.mv_cluster": "§b発展型クラスター圧延機 §r",
-  "gtocore.machine.mv_cluster.tooltip": "§7Produces Foils",
+  "gtocore.machine.mv_cluster.tooltip": "§7フォイルの生産",
 
   "block.gtocore.mv_dehydrator": "§b発展型脱水機 §r",
-  "gtocore.machine.mv_dehydrator.tooltip": "§7Dehydrate, Dehydrate!",
+  "gtocore.machine.mv_dehydrator.tooltip": "§7カラカラカラのカラ カララカラカラ",
 
   "block.gtocore.mv_digital_miner": "§b発展型デジタルマイナー §r",
   "block.gtceu.mv_dual_input_hatch": "§bMV§r二重搬入ハッチ",
@@ -3128,13 +3128,13 @@
   "block.gtocore.mv_energy_output_hatch_16a": "§bMV§r 16A Dynamo Hatch",
 
   "block.gtocore.mv_laminator": "§b発展型ラミネート機 §r",
-  "gtocore.machine.mv_laminator.tooltip": "§7Insulation Coating, Safe Electricity!",
+  "gtocore.machine.mv_laminator.tooltip": "§7絶縁しちゃえば感電なんて怖くないね",
 
   "block.gtocore.mv_laser_welder": "§b発展型レーザー溶接機 §r",
-  "gtocore.machine.mv_laser_welder.tooltip": "§7Ancient Welding Technique",
+  "gtocore.machine.mv_laser_welder.tooltip": "§7太古から伝わる溶接技術",
 
   "block.gtocore.mv_loom": "§b発展型織機 §r",
-  "gtocore.machine.mv_loom.tooltip": "§7Automated Weaving",
+  "gtocore.machine.mv_loom.tooltip": "§7自動化織り込み",
 
   "block.gtocore.mv_mana_assembler": "Apprentice Mana Assembler",
   "block.gtocore.mv_mana_extract_hatch": "Apprentice Mana Extract Hatch",
@@ -3147,14 +3147,14 @@
   "block.gtocore.mv_programmablec_hatch": "§bMV Programmable Hatch",
 
   "block.gtocore.mv_rolling": "§b発展型圧延機 §r",
-  "gtocore.machine.mv_rolling.tooltip": "§7Flat Rolling",
+  "gtocore.machine.mv_rolling.tooltip": "§7平たく伸ばす",
 
   "block.gtocore.mv_semi_fluid": "§b発展型半液体燃焼発電機 §r",
   "block.gtocore.mv_thermal_generator": "§b発展型火力発電機 §r",
   "block.gtocore.mv_trading_station": "Pan-Galactic Gray Technology Trading Station Tier 2",
 
   "block.gtocore.mv_unpacker": "§b発展型開梱機 §r",
-  "gtocore.machine.mv_unpacker.tooltip": "§7Standard Unpacking",
+  "gtocore.machine.mv_unpacker.tooltip": "§7スタンダードな開梱",
 
   "block.gtocore.mv_vacuum_pump": "§b発展型真空ポンプ §r",
   "gtocore.machine.mv_vacuum_pump.tooltip": "§7Industrial Vacuum System",
@@ -3171,7 +3171,7 @@
   "block.gtocore.mv_wireless_output_hatch_16a": "§bMV§r 16A Wireless Dynamo Hatch",
 
   "block.gtocore.mv_world_data_scanner": "§b発展型世界データスキャナー §r",
-  "gtocore.machine.mv_world_data_scanner.tooltip": "§7Chunk Data Reader",
+  "gtocore.machine.mv_world_data_scanner.tooltip": "§7チャンクデータ読み込みマン",
 
   "effect.gtocore.mysterious_boost": "Possession of the Machine God",
   "block.gtocore.nanites_circuit_assembly_factory": "Nanites Circuit Assembly Factory",
@@ -3352,25 +3352,25 @@
   "block.gtocore.opv_16777216a_laser_target_hatch": "§9§lOpV§r 16,777,216§eA§r対応レーザー照準ハッチ",
   "block.gtocore.opv_accelerate_hatch": "§9§lOpV§r Accelerate Hatch",
 
-  "block.gtocore.opv_arc_generator": "§9§l伝説のアーク発生機 §r",
+  "block.gtocore.opv_arc_generator": "§9§lアーク発生機 §r",
   "gtocore.machine.opv_arc_generator.tooltip": "§7Stellar Energy Extractor",
 
-  "block.gtocore.opv_cluster": "§9§l伝説のクラスター圧延機 §r",
+  "block.gtocore.opv_cluster": "§9§lクラスター圧延機 §r",
   "gtocore.machine.opv_cluster.tooltip": "§7Reality Weaver",
 
-  "block.gtocore.opv_dehydrator": "§9§l伝説の脱水機 §r",
+  "block.gtocore.opv_dehydrator": "§9§l脱水機 §r",
   "gtocore.machine.opv_dehydrator.tooltip": "§7Water Molecule Eliminator",
 
   "block.gtocore.opv_hermetic_casing": "気密外装 XIII",
   "item.gtocore.opv_integrated_control_core": "§9§lOpV§r統合制御コア",
 
-  "block.gtocore.opv_laminator": "§9§l伝説のラミネート機 §r",
+  "block.gtocore.opv_laminator": "§9§lラミネート機 §r",
   "gtocore.machine.opv_laminator.tooltip": "§7Absolute Insulation Barrier Generator",
 
-  "block.gtocore.opv_laser_welder": "§9§l伝説のレーザー溶接機 §r",
+  "block.gtocore.opv_laser_welder": "§9§lレーザー溶接機 §r",
   "gtocore.machine.opv_laser_welder.tooltip": "§7Causality Welder",
 
-  "block.gtocore.opv_loom": "§9§l伝説の織機 §r",
+  "block.gtocore.opv_loom": "§9§l織機 §r",
   "gtocore.machine.opv_loom.tooltip": "§7Fate Spinning Wheel",
 
   "block.gtocore.opv_mana_extract_hatch": "Perpetual Mana Extract Hatch",
@@ -3382,12 +3382,12 @@
   "block.gtceu.opv_parallel_hatch": "§9§lOpV§r並列制御ユニット",
   "block.gtocore.opv_programmablec_hatch": "§9§lOpV Programmable Hatch",
 
-  "block.gtocore.opv_rolling": "§9§l伝説の圧延機 §r",
+  "block.gtocore.opv_rolling": "§9§l圧延機 §r",
   "gtocore.machine.opv_rolling.tooltip": "§7Dimensional Compactor",
 
   "block.gtocore.opv_thread_hatch": "§9§lOpV§r Thread Hatch",
 
-  "block.gtocore.opv_unpacker": "§9§l伝説の開梱機 §r",
+  "block.gtocore.opv_unpacker": "§9§l開梱機 §r",
   "gtocore.machine.opv_unpacker.tooltip": "§7Causality Package Cracker",
 
   "item.gtocore.opv_voltage_coil": "OpV Voltage Coil",
@@ -3421,7 +3421,7 @@
   "block.gtocore.opv_wireless_output_hatch_4194304a": "§9§lOpV§r 4,194,304§eA§r Wireless Dynamo Hatch",
   "block.gtocore.opv_wireless_output_hatch_16777216a": "§9§lOpV§r 16,777,216§eA§r Wireless Dynamo Hatch",
 
-  "block.gtocore.opv_world_data_scanner": "§9§l伝説の世界データスキャナー §r",
+  "block.gtocore.opv_world_data_scanner": "§9§l世界データスキャナー §r",
   "gtocore.machine.opv_world_data_scanner.tooltip": "§7Cosmic Database Terminal",
 
   "block.gtocore.orbital_fine_materials_factory": "Orbital Fine Materials Factory",
@@ -3680,9 +3680,9 @@
   "item.gtocore.prescient_crystal": "Prescient Crystal",
   "block.gtocore.pressure_containment_casing": "Pressure Containment Casing",
   "block.gtocore.pressure_resistant_housing_mechanical_block": "Pressure Resistant Housing Mechanical Block",
-  "block.gtocore.primitive_blast_furnace_hatch": "初歩的な溶鉱炉用ハッチ",
+  "block.gtocore.primitive_blast_furnace_hatch": "原始型溶鉱炉用ハッチ",
 
-  "block.gtocore.primitive_distillation_tower": "初歩的な蒸留塔",
+  "block.gtocore.primitive_distillation_tower": "原始型蒸留塔",
   "gtocore.lang.primitive_distillation_tower.0.-428244877": "Heat Management",
   "gtocore.lang.primitive_distillation_tower.1.1332335458": "Requires >400K heat to process recipes",
   "gtocore.lang.primitive_distillation_tower.2.-1700430398": "Processing recipes consumes heat, helping to stabilize temperature",
@@ -4707,13 +4707,13 @@
   "block.gtocore.uev_16777216a_laser_target_hatch": "§aUEV§r 16,777,216§eA§r対応レーザー照準ハッチ",
   "block.gtocore.uev_accelerate_hatch": "§aUEV§r Accelerate Hatch",
 
-  "block.gtocore.uev_arc_generator": "§a史上最高のアーク発生機 II§r",
+  "block.gtocore.uev_arc_generator": "§a最高型アーク発生機 II§r",
   "gtocore.machine.uev_arc_generator.tooltip": "§7Plasma Arc Matrix",
 
-  "block.gtocore.uev_cluster": "§a史上最高のクラスター圧延機 II§r",
+  "block.gtocore.uev_cluster": "§a最高型クラスター圧延機 II§r",
   "gtocore.machine.uev_cluster.tooltip": "§7Quantum Lamination Device",
 
-  "block.gtocore.uev_dehydrator": "§a史上最高の脱水機 II§r",
+  "block.gtocore.uev_dehydrator": "§a最高型脱水機 II§r",
   "gtocore.machine.uev_dehydrator.tooltip": "§7Vacuum Drying Singularity",
 
   "block.gtocore.uev_fusion_reactor": "核融合炉 MK V",
@@ -4722,13 +4722,13 @@
   "block.gtocore.uev_hermetic_casing": "気密外装 X",
   "item.gtocore.uev_integrated_control_core": "§aUEV§r統合制御コア",
 
-  "block.gtocore.uev_laminator": "§a史上最高のラミネート機 II§r",
+  "block.gtocore.uev_laminator": "§a最高型ラミネート機 II§r",
   "gtocore.machine.uev_laminator.tooltip": "§7Superconducting Coating Unit",
 
-  "block.gtocore.uev_laser_welder": "§a史上最高のレーザー溶接機 II§r",
+  "block.gtocore.uev_laser_welder": "§a最高型レーザー溶接機 II§r",
   "gtocore.machine.uev_laser_welder.tooltip": "§7Spacetime Stitcher",
 
-  "block.gtocore.uev_loom": "§a史上最高の織機 II§r",
+  "block.gtocore.uev_loom": "§a最高型織機 II§r",
   "gtocore.machine.uev_loom.tooltip": "§7Quantum Loom",
 
   "block.gtocore.uev_mana_extract_hatch": "Awaken Mana Extract Hatch",
@@ -4740,12 +4740,12 @@
   "block.gtceu.uev_parallel_hatch": "§aUEV§r並列制御ユニット",
   "block.gtocore.uev_programmablec_hatch": "§aUEV Programmable Hatch",
 
-  "block.gtocore.uev_rolling": "§a史上最高の圧延機 II§r",
+  "block.gtocore.uev_rolling": "§a最高型圧延機 II§r",
   "gtocore.machine.uev_rolling.tooltip": "§7Spacetime Roller",
 
   "block.gtocore.uev_thread_hatch": "§aUEV§r Thread Hatch",
 
-  "block.gtocore.uev_unpacker": "§a史上最高の開梱機 II§r",
+  "block.gtocore.uev_unpacker": "§a最高型開梱機 II§r",
   "gtocore.machine.uev_unpacker.tooltip": "§7Spatial Decompression Unit",
 
   "item.gtocore.uev_voltage_coil": "UEV Voltage Coil",
@@ -4779,7 +4779,7 @@
   "block.gtocore.uev_wireless_output_hatch_4194304a": "§aUEV§r 4,194,304§eA§r Wireless Dynamo Hatch",
   "block.gtocore.uev_wireless_output_hatch_16777216a": "§aUEV§r 16,777,216§eA§r Wireless Dynamo Hatch",
 
-  "block.gtocore.uev_world_data_scanner": "§a史上最高の世界データスキャナー II§r",
+  "block.gtocore.uev_world_data_scanner": "§a最高型世界データスキャナー II§r",
   "gtocore.machine.uev_world_data_scanner.tooltip": "§7Quantum State World Scanner",
 
   "block.gtocore.uhv_16384a_laser_source_hatch": "§4UHV§r 16,384§eA§r対応レーザー照射ハッチ",
@@ -4796,13 +4796,13 @@
   "block.gtocore.uhv_16777216a_laser_target_hatch": "§4UHV§r 16,777,216§eA§r対応レーザー照準ハッチ",
   "block.gtocore.uhv_accelerate_hatch": "§4UHV§r Accelerate Hatch",
 
-  "block.gtocore.uhv_arc_generator": "§4史上最高のアーク発生機 §r",
+  "block.gtocore.uhv_arc_generator": "§4最高型アーク発生機 §r",
   "gtocore.machine.uhv_arc_generator.tooltip": "§7Plasma Arc Matrix",
 
-  "block.gtocore.uhv_cluster": "§4史上最高のクラスター圧延機 §r",
+  "block.gtocore.uhv_cluster": "§4最高型クラスター圧延機 §r",
   "gtocore.machine.uhv_cluster.tooltip": "§7Quantum Lamination Device",
 
-  "block.gtocore.uhv_dehydrator": "§4史上最高の脱水機 §r",
+  "block.gtocore.uhv_dehydrator": "§4最高型脱水機 §r",
   "gtocore.machine.uhv_dehydrator.tooltip": "§7Vacuum Drying Singularity",
 
   "block.gtocore.uhv_fusion_reactor": "核融合炉 MK IV",
@@ -4810,13 +4810,13 @@
 
   "item.gtocore.uhv_integrated_control_core": "§4UHV§r統合制御コア",
 
-  "block.gtocore.uhv_laminator": "§4史上最高のラミネート機 §r",
+  "block.gtocore.uhv_laminator": "§4最高型ラミネート機 §r",
   "gtocore.machine.uhv_laminator.tooltip": "§7Superconducting Coating Unit",
 
-  "block.gtocore.uhv_laser_welder": "§4史上最高のレーザー溶接機 §r",
+  "block.gtocore.uhv_laser_welder": "§4最高型レーザー溶接機 §r",
   "gtocore.machine.uhv_laser_welder.tooltip": "§7Spacetime Stitcher",
 
-  "block.gtocore.uhv_loom": "§4史上最高の織機 §r",
+  "block.gtocore.uhv_loom": "§4最高型織機 §r",
   "gtocore.machine.uhv_loom.tooltip": "§7Quantum Loom",
 
   "block.gtocore.uhv_mana_extract_hatch": "Regards Mana Extract Hatch",
@@ -4828,12 +4828,12 @@
   "block.gtceu.uhv_parallel_hatch": "§4UHV§r並列制御ユニット",
   "block.gtocore.uhv_programmablec_hatch": "§4UHV Programmable Hatch",
 
-  "block.gtocore.uhv_rolling": "§4史上最高の圧延機 §r",
+  "block.gtocore.uhv_rolling": "§4最高型圧延機 §r",
   "gtocore.machine.uhv_rolling.tooltip": "§7Spacetime Roller",
 
   "block.gtocore.uhv_thread_hatch": "§4UHV§r Thread Hatch",
 
-  "block.gtocore.uhv_unpacker": "§4史上最高の開梱機 §r",
+  "block.gtocore.uhv_unpacker": "§4最高型開梱機 §r",
   "gtocore.machine.uhv_unpacker.tooltip": "§7Spatial Decompression Unit",
 
   "item.gtocore.uhv_voltage_coil": "UHV Voltage Coil",
@@ -4867,7 +4867,7 @@
   "block.gtocore.uhv_wireless_output_hatch_4194304a": "§4UHV§r 4,194,304§eA§r Wireless Dynamo Hatch",
   "block.gtocore.uhv_wireless_output_hatch_16777216a": "§4UHV§r 16,777,216§eA§r Wireless Dynamo Hatch",
 
-  "block.gtocore.uhv_world_data_scanner": "§4史上最高の世界データスキャナー §r",
+  "block.gtocore.uhv_world_data_scanner": "§4最高型世界データスキャナー §r",
   "gtocore.machine.uhv_world_data_scanner.tooltip": "§7Quantum State World Scanner",
 
   "item.gtocore.ui_tester": "Ui Tester",
@@ -4885,25 +4885,25 @@
   "block.gtocore.uiv_16777216a_laser_target_hatch": "§2UIV§r 16,777,216§eA§r対応レーザー照準ハッチ",
   "block.gtocore.uiv_accelerate_hatch": "§2UIV§r Accelerate Hatch",
 
-  "block.gtocore.uiv_arc_generator": "§2史上最高のアーク発生機 III§r",
+  "block.gtocore.uiv_arc_generator": "§2最高型アーク発生機 III§r",
   "gtocore.machine.uiv_arc_generator.tooltip": "§7Plasma Arc Matrix",
 
-  "block.gtocore.uiv_cluster": "§2史上最高のクラスター圧延機 III§r",
+  "block.gtocore.uiv_cluster": "§2最高型クラスター圧延機 III§r",
   "gtocore.machine.uiv_cluster.tooltip": "§7Quantum Lamination Device",
 
-  "block.gtocore.uiv_dehydrator": "§2史上最高の脱水機 III§r",
+  "block.gtocore.uiv_dehydrator": "§2最高型脱水機 III§r",
   "gtocore.machine.uiv_dehydrator.tooltip": "§7Vacuum Drying Singularity",
 
   "block.gtocore.uiv_hermetic_casing": "気密外装 XI",
   "item.gtocore.uiv_integrated_control_core": "§2UIV§r統合制御コア",
 
-  "block.gtocore.uiv_laminator": "§2史上最高のラミネート機 III§r",
+  "block.gtocore.uiv_laminator": "§2最高型ラミネート機 III§r",
   "gtocore.machine.uiv_laminator.tooltip": "§7Superconducting Coating Unit",
 
-  "block.gtocore.uiv_laser_welder": "§2史上最高のレーザー溶接機 III§r",
+  "block.gtocore.uiv_laser_welder": "§2最高型レーザー溶接機 III§r",
   "gtocore.machine.uiv_laser_welder.tooltip": "§7Spacetime Stitcher",
 
-  "block.gtocore.uiv_loom": "§2史上最高の織機 III§r",
+  "block.gtocore.uiv_loom": "§2最高型織機 III§r",
   "gtocore.machine.uiv_loom.tooltip": "§7Quantum Loom",
 
   "block.gtocore.uiv_mana_extract_hatch": "Prosperity Mana Extract Hatch",
@@ -4915,12 +4915,12 @@
   "block.gtceu.uiv_parallel_hatch": "§2UIV§r並列制御ユニット",
   "block.gtocore.uiv_programmablec_hatch": "§2UIV Programmable Hatch",
 
-  "block.gtocore.uiv_rolling": "§2史上最高の圧延機 III§r",
+  "block.gtocore.uiv_rolling": "§2最高型圧延機 III§r",
   "gtocore.machine.uiv_rolling.tooltip": "§7Spacetime Roller",
 
   "block.gtocore.uiv_thread_hatch": "§2UIV§r Thread Hatch",
 
-  "block.gtocore.uiv_unpacker": "§2史上最高の開梱機 III§r",
+  "block.gtocore.uiv_unpacker": "§2最高型開梱機 III§r",
   "gtocore.machine.uiv_unpacker.tooltip": "§7Spatial Decompression Unit",
 
   "item.gtocore.uiv_voltage_coil": "UIV Voltage Coil",
@@ -4954,17 +4954,17 @@
   "block.gtocore.uiv_wireless_output_hatch_4194304a": "§2UIV§r 4,194,304§eA§r Wireless Dynamo Hatch",
   "block.gtocore.uiv_wireless_output_hatch_16777216a": "§2UIV§r 16,777,216§eA§r Wireless Dynamo Hatch",
 
-  "block.gtocore.uiv_world_data_scanner": "§2史上最高の世界データスキャナー III§r",
+  "block.gtocore.uiv_world_data_scanner": "§2最高型世界データスキャナー III§r",
   "gtocore.machine.uiv_world_data_scanner.tooltip": "§7Quantum State World Scanner",
 
   "block.gtocore.ultimate_stellar_containment_casing": "Ultimate Stellar Containment Casing",
   "item.gtocore.ultrashort_pulse_laser": "Ultrashort Pulse Laser",
 
-  "block.gtocore.ulv_assembler": "初歩的な組立機 §r",
-  "gtocore.machine.ulv_assembler.tooltip": "§7Cobbling small items",
+  "block.gtocore.ulv_assembler": "原始型組立機 §r",
+  "gtocore.machine.ulv_assembler.tooltip": "§7小さなモノを組み立てる",
 
-  "block.gtocore.ulv_chemical_reactor": "初歩的な化学反応器 §r",
-  "gtocore.machine.ulv_chemical_reactor.tooltip": "§7Simple substance combination",
+  "block.gtocore.ulv_chemical_reactor": "原始型化学反応器 §r",
+  "gtocore.machine.ulv_chemical_reactor.tooltip": "§7小さな化学 大きな進歩",
 
   "item.gtocore.ulv_conveyor_module": "ULVコンベアーモジュール",
   "item.gtocore.ulv_electric_motor": "ULV電動モーター",
@@ -4972,32 +4972,32 @@
   "item.gtocore.ulv_electric_pump": "ULV電動ポンプ",
   "item.gtocore.ulv_fluid_regulator": "ULV流量制御器",
 
-  "block.gtocore.ulv_fluid_solidifier": "初歩的な液体成形機 §r",
-  "gtocore.machine.ulv_fluid_solidifier.tooltip": "§7Liquid to Solid by Settling",
+  "block.gtocore.ulv_fluid_solidifier": "原始型液体成形機 §r",
+  "gtocore.machine.ulv_fluid_solidifier.tooltip": "§7沈殿による液体から固体への変化",
 
-  "block.gtocore.ulv_lathe": "初歩的な旋盤 §r",
-  "gtocore.machine.ulv_lathe.tooltip": "§7Produces Rods a little more efficiently",
+  "block.gtocore.ulv_lathe": "原始型旋盤 §r",
+  "gtocore.machine.ulv_lathe.tooltip": "§7棒のやや効率的な生産",
 
-  "block.gtocore.ulv_loom": "初歩的な織機 §r",
-  "gtocore.machine.ulv_loom.tooltip": "§7Just Bundling Wires Together",
+  "block.gtocore.ulv_loom": "原始型織機 §r",
+  "gtocore.machine.ulv_loom.tooltip": "§7ワイヤーをまとめるだけ",
 
-  "block.gtocore.ulv_mana_machine_hull": "初歩的なマナ式マシン筐体",
+  "block.gtocore.ulv_mana_machine_hull": "原始型マナ式マシン筐体",
   "block.gtocore.ulv_neutron_accelerator": "§8ULV§r Neutron Accelerator",
 
-  "block.gtocore.ulv_packer": "初歩的な梱包機 §r",
-  "gtocore.machine.ulv_packer.tooltip": "§7Item Packing",
+  "block.gtocore.ulv_packer": "原始型梱包機 §r",
+  "gtocore.machine.ulv_packer.tooltip": "§7アイテムを梱包",
 
   "item.gtocore.ulv_robot_arm": "ULVロボットアーム",
-  "block.gtocore.ulv_semi_fluid": "初歩的な半液体燃焼発電機 §r",
-  "block.gtocore.ulv_thermal_generator": "初歩的な火力発電機 §r",
+  "block.gtocore.ulv_semi_fluid": "原始型半液体燃焼発電機 §r",
+  "block.gtocore.ulv_thermal_generator": "原始型火力発電機 §r",
 
-  "block.gtocore.ulv_unpacker": "初歩的な開梱機 §r",
-  "gtocore.machine.ulv_unpacker.tooltip": "§7Crude Unpacking",
+  "block.gtocore.ulv_unpacker": "原始型開梱機 §r",
+  "gtocore.machine.ulv_unpacker.tooltip": "§7雑な開封",
 
-  "block.gtocore.ulv_wind_mill_turbine": "初歩的な風力発電機 §r",
+  "block.gtocore.ulv_wind_mill_turbine": "原始型風力発電機 §r",
 
-  "block.gtocore.ulv_wiremill": "初歩的なワイヤー作製機 §r",
-  "gtocore.machine.ulv_wiremill.tooltip": "§7Simple Wire Production",
+  "block.gtocore.ulv_wiremill": "原始型ワイヤー作製機 §r",
+  "gtocore.machine.ulv_wiremill.tooltip": "§7簡素なワイヤー作成",
 
   "item.gtocore.unaligned_quark_releasing_catalyst": "Unaligned Quark Releasing Catalyst",
   "item.gtocore.universal_circuit_ev": "EV 統合型回路",
@@ -5122,25 +5122,25 @@
   "block.gtocore.uxv_16777216a_laser_target_hatch": "§eUXV§r 16,777,216§eA§r対応レーザー照準ハッチ",
   "block.gtocore.uxv_accelerate_hatch": "§eUXV§r Accelerate Hatch",
 
-  "block.gtocore.uxv_arc_generator": "§e史上最高のアーク発生機 IV§r",
+  "block.gtocore.uxv_arc_generator": "§e最高型アーク発生機 IV§r",
   "gtocore.machine.uxv_arc_generator.tooltip": "§7Plasma Arc Matrix",
 
-  "block.gtocore.uxv_cluster": "§e史上最高のクラスター圧延機 IV§r",
+  "block.gtocore.uxv_cluster": "§e最高型クラスター圧延機 IV§r",
   "gtocore.machine.uxv_cluster.tooltip": "§7Quantum Lamination Device",
 
-  "block.gtocore.uxv_dehydrator": "§e史上最高の脱水機 IV§r",
+  "block.gtocore.uxv_dehydrator": "§e最高型脱水機 IV§r",
   "gtocore.machine.uxv_dehydrator.tooltip": "§7Vacuum Drying Singularity",
 
   "block.gtocore.uxv_hermetic_casing": "気密外装 XII",
   "item.gtocore.uxv_integrated_control_core": "§eUXV§r統合制御コア",
 
-  "block.gtocore.uxv_laminator": "§e史上最高のラミネート機 IV§r",
+  "block.gtocore.uxv_laminator": "§e最高型ラミネート機 IV§r",
   "gtocore.machine.uxv_laminator.tooltip": "§7Superconducting Coating Unit",
 
-  "block.gtocore.uxv_laser_welder": "§e史上最高のレーザー溶接機 IV§r",
+  "block.gtocore.uxv_laser_welder": "§e最高型レーザー溶接機 IV§r",
   "gtocore.machine.uxv_laser_welder.tooltip": "§7Spacetime Stitcher",
 
-  "block.gtocore.uxv_loom": "§e史上最高の織機 IV§r",
+  "block.gtocore.uxv_loom": "§e最高型織機 IV§r",
   "gtocore.machine.uxv_loom.tooltip": "§7Quantum Loom",
 
   "block.gtocore.uxv_mana_extract_hatch": "End Mana Extract Hatch",
@@ -5152,12 +5152,12 @@
   "block.gtceu.uxv_parallel_hatch": "§eUXV§r並列制御ユニット",
   "block.gtocore.uxv_programmablec_hatch": "§eUXV Programmable Hatch",
 
-  "block.gtocore.uxv_rolling": "§e史上最高の圧延機 IV§r",
+  "block.gtocore.uxv_rolling": "§e最高型圧延機 IV§r",
   "gtocore.machine.uxv_rolling.tooltip": "§7Spacetime Roller",
 
   "block.gtocore.uxv_thread_hatch": "§eUXV§r Thread Hatch",
 
-  "block.gtocore.uxv_unpacker": "§e史上最高の開梱機 IV§r",
+  "block.gtocore.uxv_unpacker": "§e最高型開梱機 IV§r",
   "gtocore.machine.uxv_unpacker.tooltip": "§7Spatial Decompression Unit",
 
   "item.gtocore.uxv_voltage_coil": "UXV Voltage Coil",
@@ -5191,7 +5191,7 @@
   "block.gtocore.uxv_wireless_output_hatch_4194304a": "§eUXV§r 4,194,304§eA§r Wireless Dynamo Hatch",
   "block.gtocore.uxv_wireless_output_hatch_16777216a": "§eUXV§r 16,777,216§eA§r Wireless Dynamo Hatch",
 
-  "block.gtocore.uxv_world_data_scanner": "§e史上最高の世界データスキャナー IV§r",
+  "block.gtocore.uxv_world_data_scanner": "§e最高型世界データスキャナー IV§r",
   "gtocore.machine.uxv_world_data_scanner.tooltip": "§7Quantum State World Scanner",
 
   "block.gtocore.vacuum_chamber_beam_block": "Vacuum Chamber Beam Block",
